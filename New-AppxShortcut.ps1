@@ -20,7 +20,7 @@
 .LINK
    http://www.launchy.net
 .LINK
-    
+    https://github.com/wasserja/MrAAppx
 #>
 function New-AppxShortcut
 {

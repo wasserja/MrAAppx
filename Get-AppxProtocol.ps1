@@ -33,7 +33,7 @@
 
    List the protocols for Feedback Hub from all users.
 .LINK
-   
+   https://github.com/wasserja/MrAAppx
 #>
 function Get-AppxProtocol
 {
